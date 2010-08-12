@@ -37,3 +37,9 @@ Rendering rescues/layout (not_found)
 Processing PagesController#home (for 127.0.0.1 at 2010-08-12 17:02:13) [GET]
 Rendering pages/home
 Completed in 143ms (View: 133, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-08-12 17:38:50) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 51ms (View: 41, DB: 0) | 200 OK [http://localhost/pages/home]
