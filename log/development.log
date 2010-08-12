@@ -43,3 +43,12 @@ Processing PagesController#home (for 127.0.0.1 at 2010-08-12 17:38:50) [GET]
 Rendering template within layouts/application
 Rendering pages/home
 Completed in 51ms (View: 41, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-08-13 01:56:29) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered layouts/_stylesheets (22.1ms)
+Rendered layouts/_header (6.7ms)
+Rendered layouts/_footer (3.2ms)
+Completed in 215ms (View: 195, DB: 0) | 200 OK [http://localhost/users/new]
