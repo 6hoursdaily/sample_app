@@ -122,3 +122,285 @@ Processing PagesController#home (for 0.0.0.0 at 2010-08-12 17:40:14) [GET]
 Rendering template within layouts/application
 Rendering pages/home
 Completed in 4ms (View: 3, DB: 0) | 200 OK [http://test.host/pages/home]
+
+
+Processing PagesController#about (for 0.0.0.0 at 2010-08-12 17:41:27) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 16ms (View: 8, DB: 0) | 200 OK [http://test.host/pages/about]
+
+
+Processing PagesController#about (for 0.0.0.0 at 2010-08-12 17:41:27) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://test.host/pages/about]
+
+
+Processing PagesController#contact (for 0.0.0.0 at 2010-08-12 17:41:27) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://test.host/pages/contact]
+
+
+Processing PagesController#contact (for 0.0.0.0 at 2010-08-12 17:41:27) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://test.host/pages/contact]
+
+
+Processing PagesController#home (for 0.0.0.0 at 2010-08-12 17:41:27) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://test.host/pages/home]
+
+
+Processing PagesController#home (for 0.0.0.0 at 2010-08-12 17:41:27) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://test.host/pages/home]
+
+
+Processing PagesController#help (for 0.0.0.0 at 2010-08-12 17:49:20) [GET]
+
+
+Processing PagesController#help (for 0.0.0.0 at 2010-08-12 17:49:20) [GET]
+
+
+Processing PagesController#about (for 0.0.0.0 at 2010-08-12 17:49:20) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://test.host/pages/about]
+
+
+Processing PagesController#about (for 0.0.0.0 at 2010-08-12 17:49:20) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://test.host/pages/about]
+
+
+Processing PagesController#contact (for 0.0.0.0 at 2010-08-12 17:49:20) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://test.host/pages/contact]
+
+
+Processing PagesController#contact (for 0.0.0.0 at 2010-08-12 17:49:20) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://test.host/pages/contact]
+
+
+Processing PagesController#home (for 0.0.0.0 at 2010-08-12 17:49:21) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://test.host/pages/home]
+
+
+Processing PagesController#home (for 0.0.0.0 at 2010-08-12 17:49:21) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://test.host/pages/home]
+
+
+Processing PagesController#help (for 0.0.0.0 at 2010-08-12 17:50:23) [GET]
+Rendering template within layouts/application
+Rendering pages/help
+Completed in 17ms (View: 8, DB: 0) | 200 OK [http://test.host/pages/help]
+
+
+Processing PagesController#help (for 0.0.0.0 at 2010-08-12 17:50:23) [GET]
+Rendering template within layouts/application
+Rendering pages/help
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://test.host/pages/help]
+
+
+Processing PagesController#about (for 0.0.0.0 at 2010-08-12 17:50:23) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://test.host/pages/about]
+
+
+Processing PagesController#about (for 0.0.0.0 at 2010-08-12 17:50:23) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://test.host/pages/about]
+
+
+Processing PagesController#contact (for 0.0.0.0 at 2010-08-12 17:50:23) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://test.host/pages/contact]
+
+
+Processing PagesController#contact (for 0.0.0.0 at 2010-08-12 17:50:23) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://test.host/pages/contact]
+
+
+Processing PagesController#home (for 0.0.0.0 at 2010-08-12 17:50:23) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://test.host/pages/home]
+
+
+Processing PagesController#home (for 0.0.0.0 at 2010-08-12 17:50:23) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://test.host/pages/home]
+
+
+Processing PagesController#help (for 0.0.0.0 at 2010-08-12 17:51:43) [GET]
+Rendering template within layouts/application
+Rendering pages/help
+Completed in 24ms (View: 10, DB: 0) | 200 OK [http://test.host/pages/help]
+
+
+Processing PagesController#help (for 0.0.0.0 at 2010-08-12 17:51:43) [GET]
+Rendering template within layouts/application
+Rendering pages/help
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://test.host/pages/help]
+
+
+Processing PagesController#about (for 0.0.0.0 at 2010-08-12 17:51:43) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://test.host/pages/about]
+
+
+Processing PagesController#about (for 0.0.0.0 at 2010-08-12 17:51:43) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://test.host/pages/about]
+
+
+Processing PagesController#contact (for 0.0.0.0 at 2010-08-12 17:51:43) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://test.host/pages/contact]
+
+
+Processing PagesController#contact (for 0.0.0.0 at 2010-08-12 17:51:43) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://test.host/pages/contact]
+
+
+Processing PagesController#home (for 0.0.0.0 at 2010-08-12 17:51:43) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://test.host/pages/home]
+
+
+Processing PagesController#home (for 0.0.0.0 at 2010-08-12 17:51:43) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://test.host/pages/home]
+
+
+Processing PagesController#about (for 0.0.0.0 at 2010-08-12 18:04:08) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 18ms (View: 9, DB: 0) | 200 OK [http://test.host/pages/about]
+
+
+Processing PagesController#about (for 0.0.0.0 at 2010-08-12 18:04:08) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://test.host/pages/about]
+
+
+Processing PagesController#contact (for 0.0.0.0 at 2010-08-12 18:04:08) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://test.host/pages/contact]
+
+
+Processing PagesController#contact (for 0.0.0.0 at 2010-08-12 18:04:08) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://test.host/pages/contact]
+
+
+Processing PagesController#home (for 0.0.0.0 at 2010-08-12 18:04:08) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://test.host/pages/home]
+
+
+Processing PagesController#home (for 0.0.0.0 at 2010-08-12 18:04:08) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://test.host/pages/home]
+
+
+Processing PagesController#about (for 0.0.0.0 at 2010-08-12 18:05:41) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 17ms (View: 8, DB: 0) | 200 OK [http://test.host/pages/about]
+
+
+Processing PagesController#about (for 0.0.0.0 at 2010-08-12 18:05:41) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://test.host/pages/about]
+
+
+Processing PagesController#contact (for 0.0.0.0 at 2010-08-12 18:05:41) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://test.host/pages/contact]
+
+
+Processing PagesController#contact (for 0.0.0.0 at 2010-08-12 18:05:41) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://test.host/pages/contact]
+
+
+Processing PagesController#home (for 0.0.0.0 at 2010-08-12 18:05:41) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://test.host/pages/home]
+
+
+Processing PagesController#home (for 0.0.0.0 at 2010-08-12 18:05:41) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://test.host/pages/home]
+
+
+Processing PagesController#about (for 0.0.0.0 at 2010-08-12 18:06:19) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 16ms (View: 8, DB: 0) | 200 OK [http://test.host/pages/about]
+
+
+Processing PagesController#about (for 0.0.0.0 at 2010-08-12 18:06:19) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://test.host/pages/about]
+
+
+Processing PagesController#contact (for 0.0.0.0 at 2010-08-12 18:06:19) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://test.host/pages/contact]
+
+
+Processing PagesController#contact (for 0.0.0.0 at 2010-08-12 18:06:19) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://test.host/pages/contact]
+
+
+Processing PagesController#home (for 0.0.0.0 at 2010-08-12 18:06:19) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://test.host/pages/home]
+
+
+Processing PagesController#home (for 0.0.0.0 at 2010-08-12 18:06:19) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://test.host/pages/home]
